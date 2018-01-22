@@ -1,0 +1,208 @@
+a:link{
+  text-decoration: none;
+}
+.classCommod-zhb{
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  margin-top: .1rem;
+  margin-bottom: .2rem;
+  background-color: #fff;
+}
+.classCommod-head-zhb{
+  height: 1rem;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  line-height: .8rem;
+  background-color: #fff;
+}
+.classCommod-back-zhb{
+  float: left;
+  width: .2rem;
+  height: .3rem;
+  background-image: url("../../assets/icon/back@2x.png");
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: .2rem .3rem;
+  margin-left: .34rem;
+  margin-top: .3rem;
+}
+.classCommod-title-zhb{
+  float: left;
+  font-size: .34rem;
+  margin: 0 2rem 0 1.8rem;
+}
+.classCommod-share-zhb{
+  float: right;
+  width: .34rem;
+  height: .36rem;
+  background-image: url("../../assets/icon/share@2x.png");
+  background-size: .34rem .36rem;
+  background-repeat: no-repeat;
+  margin-top: .25rem;
+  margin-right: .2rem;
+}
+/*banner*/
+/* .classCommod-banner-zhb{
+  width: 100%;
+  height: 3.4rem;
+  overflow: hidden;
+  box-sizing: border-box;
+} */
+.classCommod-banner-zhb a{
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.classCommod-banner-zhb a img{
+  display: block;
+  width: 100%;
+}
+/*标签列表*/
+.classCommod-listMesg-zhb{
+  height: auto;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #fff;
+}
+.classCommod-listMesg-zhb ul{
+  overflow: hidden;
+  margin-top: .2rem;
+  box-sizing: border-box;
+  padding:0 .16rem;
+  height: 100%;
+  width: 100%;
+}
+.classCommod-listMesg-zhb ul li a {
+  float: left;
+  font-size: 0.26rem;
+  width: auto;
+  border: .01rem solid #dddddd;
+  border-radius: .08rem;
+  margin-left: .18rem;
+  margin-bottom: .1rem;
+  padding: .1rem .3rem;
+  box-sizing: border-box;
+}
+.libgcolor{
+  background-color: #f8691c;
+  border: .01rem solid #f8691c;
+}
+.libgcolor{
+  color: #fff;
+}
+/*筛选页*/
+.classCommod-filtrate-zhb {
+  width: 100%;
+  height: .8rem;
+  background-color: #fff;
+  margin-top: .05rem;
+  overflow: hidden;
+}
+.classCommod-filtrate-zhb input {
+  outline: none;
+  border: none;
+  background-color: #fff;
+  float: left;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 0 .3rem;
+  font-size: .28rem;
+}
+.classCommod-filtrate-zhb input:first-child{
+  margin-left: .2rem;
+  margin-right: .4rem;
+}
+.classCommod-filtrate-zhb input:last-child{
+  float: right;
+  margin-right: 0.2rem;
+}
+.pric-filtrateBtn{
+  box-sizing: border-box;
+  height: 100%;
+  float: left;
+  font-size: .28rem;
+  padding: 0 .3rem;
+  padding-top: .18rem;
+  overflow: hidden;
+}
+.screen_btn{
+  width: .18rem;
+  margin-left: .2rem;
+  float: right;
+  height: 100%;
+  padding-top: .05rem;
+  box-sizing: border-box;
+}
+.screen_btn i{
+  display: block;
+  width: 100%;
+  height: .13rem;
+}
+.up_btn{
+  background-image: url("../../assets/icon/down@2x.png");
+  background-size: 100% .15rem;
+}
+.down_btn{
+  margin-top: .03rem;
+  background-image: url("../../assets/icon/up@2x.png");
+  background-size: 100% .15rem;
+}
+/*产品列表*/
+.classCommod-productList-zhb{
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-bottom: .5rem;
+}
+.classCommod-productList-zhb ul{
+  overflow: hidden;
+}
+.classCommod-productList-zhb ul li{
+  background-color: #fff;
+  width: 3.6rem;
+  height: 5.1rem;
+  float: left;
+  margin-top: .1rem;
+  margin-left: .1rem;
+  box-sizing: border-box;
+  border: 0.01rem solid #dedede
+}
+.classCommod-productList-zhb ul li a{
+  display: block;
+  width: 100%;
+}
+.classCommod-img-zhb{
+  width: 100%;
+  height: 3.63rem;
+  overflow: hidden;
+}
+.classCommod-img-zhb img{
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+.productList-des-zhb{
+  height: .8rem;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 .15rem;
+  font-size: .28rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-break: break-all;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+.classCommod-pir{
+  color: #f8691c;
+  padding: 0 .15rem;
+  margin-top: .1rem;
+  font-size: .32rem;
+}
